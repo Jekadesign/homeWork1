@@ -9,15 +9,13 @@ namespace TestProject1.PageObjects
 {
 	internal class MainGooglePageObject
 	{
-		private IWebDriver _webDriver;
+		private IWebDriver _webDriver;	
 
 
 		public MainGooglePageObject(IWebDriver webDriver)
 		{
-			_webDriver = webDriver;
-		}
-
-		//public void
+			
+		}	
 
 	}
 }
